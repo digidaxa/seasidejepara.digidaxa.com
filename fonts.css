@@ -1,0 +1,12 @@
+@font-face {
+   font-family: "Trajan";
+   src: url("fonts/Trajan-Regular.eot") format("embedded-opentype"), url("fonts/Trajan-Regular.otf") format("opentype"), url("fonts/Trajan-Regular.woff") format("woff");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "SansSerifFLF";
+   src: url("fonts/SansSerifFLF.eot") format("embedded-opentype"), url("fonts/SansSerifFLF.otf") format("opentype"), url("fonts/SansSerifFLF.woff") format("woff");
+   font-weight: normal;
+   font-style: normal;
+}
